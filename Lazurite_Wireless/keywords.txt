@@ -1,0 +1,18 @@
+#######################################
+# Syntax Coloring Map (default)
+#######################################
+
+Packet_new	KEYWORD2
+Packet_free	KEYWORD2
+Packet_getType	KEYWORD2
+Packet_getInterface	KEYWORD2
+Packet_initialize	KEYWORD2
+Packet_setType	KEYWORD2
+Packet	KEYWORD3
+PacketInterfaceBase	KEYWORD3
+LazuriteWireless	KEYWORD3
+Ack	KEYWORD3
+Command	KEYWORD3
+Data	KEYWORD3
+Notice	KEYWORD3
+Wireless	KEYWORD3
